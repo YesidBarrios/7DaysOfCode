@@ -58,7 +58,7 @@ if (COMPARAR numeroDiez y stringDiez) {
 }
 ```
 
-##CONSEJO
+## CONSEJO
 También puedes utilizar el navegador para ejecutar este programa, si aún no tienes familiaridad con editores de código como Visual Studio Code.
 
 Para hacerlo, como mencioné antes, basta con hacer clic con el botón derecho del mouse en cualquier página, seleccionar la opción “Inspeccionar”, ir a la pestaña “Consola” y escribir tu código. ¡Muy simple, verdad?
