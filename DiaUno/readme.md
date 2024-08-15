@@ -18,7 +18,8 @@ Esto causa algunos comportamientos extraños, como todos estos ejemplos a contin
 console.log(false == '0');
 console.log(null == undefined);
 console.log(" \t\r\n" == 0);
-console.log(' ' == 0);
+console.log(' ' == 0); 
+```
 
 
 
@@ -30,7 +31,7 @@ console.log(' ' == 0);
 
 Por lo tanto, tu tarea de hoy es reescribir el código a continuación para que imprima la información de manera correcta, que tenga sentido y sin errores:
 
-
+```javascript
 let numeroUn = 1;
 let stringUn = '1';
 let numeroTreinta = 30;
@@ -55,6 +56,7 @@ if (COMPARAR numeroDiez y stringDiez) {
 } else {
   console.log('Las variables numeroDiez y stringDiez no tienen el mismo valor');
 }
+```
 
 ##CONSEJO
 También puedes utilizar el navegador para ejecutar este programa, si aún no tienes familiaridad con editores de código como Visual Studio Code.
