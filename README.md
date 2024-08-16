@@ -30,3 +30,5 @@ Si encuentras algún error o tienes sugerencias para mejorar el código o la doc
 ## 🌟 ¡Únete al Reto!
 
 ¿Quieres mejorar tus habilidades en JavaScript? Únete a mí en este viaje y fortalece tus conocimientos en programación.
+
+#7DaysOfCode

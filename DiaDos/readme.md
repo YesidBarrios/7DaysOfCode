@@ -79,3 +79,7 @@ alert(msg);
 Prueba los códigos anteriores e intenta adaptarlos a tu programa.
 
 Puedes copiar este texto directamente en tu archivo `README.md`. ¡Suerte con el reto!
+
+
+#7DaysOfCode  
+#7DaysOfCode - Lógica JS 2/7: Variables

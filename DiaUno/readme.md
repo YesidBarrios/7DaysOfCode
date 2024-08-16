@@ -64,3 +64,7 @@ También puedes utilizar el navegador para ejecutar este programa, si aún no ti
 Para hacerlo, como mencioné antes, basta con hacer clic con el botón derecho del mouse en cualquier página, seleccionar la opción “Inspeccionar”, ir a la pestaña “Consola” y escribir tu código. ¡Muy simple, verdad?
 
 Si deseas cambiar los nombres de las variables y los valores, siéntete libre de hacerlo. Pero nunca imprimas algo que no sea verdadero, ¿eh?
+
+
+#7DaysOfCode  
+#7DaysOfCode - Lógica JS 1/7: Operaciones Booleanas
