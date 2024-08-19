@@ -8,7 +8,7 @@ let pregunta = prompt( "¿Deseas agregar un alimento a tu lista de compras? (si/
 
 while (pregunta === "si") {
   let alimento = prompt("¿Qué alimento deseas agregar a tu lista de compras?");
-  let categoria = prompt( "¿En qué categoría se encaja ese alimento? selleciona un  numero => (1: frutas, 2: lacteos, 3: congelados, 4: dulces, 5: verduras)");
+  let categoria = prompt( "¿En qué categoría se encaja ese alimento? selecciona un numero ➡ (1: frutas, 2: lacteos, 3: congelados, 4: dulces, 5: verduras)");
   if (categoria === "1") {
     frutas.push(alimento);
   } else if (categoria === "2") {
